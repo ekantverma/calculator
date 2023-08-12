@@ -137,9 +137,13 @@ body {
         margin-right: 10px;
       }
 }
-@media (max-width: 412px) {
+@media (max-width: 430px) {
     #calculator {
-        margin: 0;
+        margin: 5px;
+        left: 2px;
+    }
+    body {
+        width: 400px;
     }
     .p {
         padding: 0;
